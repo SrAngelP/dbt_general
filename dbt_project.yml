@@ -1,7 +1,9 @@
 config-version: 2
 version: '0.1'
 
-angel_shop:
+name: 'test'
+
+test:
   target: dev
   outputs:
     dev:
